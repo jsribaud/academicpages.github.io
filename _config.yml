@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "An (Rhode) Island Universe"
+title                    : "An Island Universe"
 title_separator          : "-"
 name                     : &name "Joseph Ribaudo"
-description              : &description "An Island Universe is being converted to a Rhode Island Universe. Coming Soon…"
+description              : &description "An Island Universe is being converted to another Island Universe. Coming Soon…"
 url                      : https://jsribaud.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jsribaud/jsribaud.github.io"
