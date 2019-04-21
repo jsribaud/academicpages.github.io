@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![Arecibo Observatory](../images/ao_pano.jpg)
 
-At the moment this site is under construction...
+At the moment things are under construction around here...
 
 Updates coming shortly.
