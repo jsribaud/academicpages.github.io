@@ -194,14 +194,14 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: index
+      type: posts
     values:
       layout: single
       author_profile: true
-      #read_time: true
+      read_time: true
       comments: true
       share: true
-      #related: true
+      related: true
   # _pages
   - scope:
       path: ""
