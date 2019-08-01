@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "An Island Universe"
+title: "A Rhode Island Universe"
 excerpt: "Home"
 author_profile: true
 redirect_from: 
@@ -10,6 +10,4 @@ redirect_from:
 
 ![Arecibo Observatory](../images/ao_pano.jpg)
 
-At the moment things are under construction around here...
-
-Updates coming shortly.
+Please excuse the mess - updates coming shortly!
