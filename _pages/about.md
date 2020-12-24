@@ -10,4 +10,4 @@ redirect_from:
 
 ![Arecibo Observatory](../images/ao_pano.jpg)
 
-Please excuse the mess - updates coming shortly!
+Hoping to update in early 2021...
