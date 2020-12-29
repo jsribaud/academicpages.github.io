@@ -13,7 +13,7 @@ Education
 ======
 * PhD -- Physics, University of Notre Dame, 2012
 * MS --  Physics, University of Notre Dame, 2010
-* BS -- Physics & Mathematics, <it>cum laude<\it>, Allegheny College, 2005
+* BS -- Physics & Mathematics, *cum laude*, Allegheny College, 2005
 
 Employment
 ======
@@ -28,8 +28,8 @@ Employment
   
 Interests
 ======
-* <bf>Research:<\bf> Formation and Evolution of Galaxies; Circumgalactic Medium; QSO Absorption Line Studies; Lyman Limit Systems; 21-cm Studies; Physics and Astronomy Pedagogy
+* **Research:** Formation and Evolution of Galaxies; Circumgalactic Medium; QSO Absorption Line Studies; Lyman Limit Systems; 21-cm Studies; Physics and Astronomy Pedagogy
 
-* <bf>Teaching:<\bf> Physics and Astronomy; History and Philosophy of Science; Diversity in Science; Reading, Writing, and Discussion in Science Curriculum
+* **Teaching:** Physics and Astronomy; History and Philosophy of Science; Diversity in Science; Reading, Writing, and Discussion in Science Curriculum
 
 A full CV can be found here: coming soon!
