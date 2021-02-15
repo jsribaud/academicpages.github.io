@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /ri_adventures/
 title: "Rhode Island Adventures"
 excerpt: "RI Adventures"
 author_profile: false
