@@ -3,6 +3,7 @@
   <msapplication>
     <tile>
       <square70x70logo src="/images/self1-70x70.jpg"/>
+      <square144x144logo src="/images/self1-144x144.jpg?v=M44lzPylqQ"/>
       <square150x150logo src="/images/self1-150x150.jpg"/>
       <square310x310logo src="/images/self1-310x310.jpg"/>
       <wide310x150logo src="/images/self1-310x150.jpg"/>
