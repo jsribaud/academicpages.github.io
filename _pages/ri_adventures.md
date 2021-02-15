@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "A Rhode Island Universe"
-excerpt: "Home"
+excerpt: "RI Adventures"
 author_profile: true
 
 ---
