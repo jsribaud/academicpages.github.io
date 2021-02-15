@@ -1,8 +1,8 @@
 ---
 permalink: /ri_adventures/
-title: "Rhode Island Adventures"
+title: "RI Adventures"
 excerpt: "RI Adventures"
-author_profile: false
+author_profile: true
 
 ---
 
