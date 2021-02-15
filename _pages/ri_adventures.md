@@ -6,11 +6,10 @@ author_profile: true
 
 ---
 
-![January Half Marathon](../images/theHM_elmgrove.jpg | width=200)
-![January Half Marathon](../images/theHM_group.jpg | width=300)
+
 
 <p float="left">
-  <img src="/../images/theHM_elmgrove.jpg" width="200" />
+  <img src="/../images/theHM_elmgrove.jpg" width="300" />
   <img src="../images/theHM_group.jpg" width="300" /> 
 </p>
 
