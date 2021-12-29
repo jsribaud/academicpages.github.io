@@ -17,4 +17,4 @@ In October 2020 I decided to do a 10-week training plan for a half marathon. Of 
 
 2021 was full of running and frisbee - and I had a blast! For 2022, I have decided to kick it up a notch and train for the Providence Marathon (May 1st, 2022). I am going to try and log my running/progress/training here... looking for good options to do so. Starting with Google Sheets...
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR5pJ5K6dP_SXFUcCTiKw4wlRIaZwJjMfmOacz2Doq1Z6XF3Q4K68IHyAdING0wOGgZeG56Mb8Mzeq8/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR5pJ5K6dP_SXFUcCTiKw4wlRIaZwJjMfmOacz2Doq1Z6XF3Q4K68IHyAdING0wOGgZeG56Mb8Mzeq8/pubchart?oid=875357752&amp;format=interactive"></iframe>
