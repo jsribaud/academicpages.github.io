@@ -17,8 +17,11 @@ Education
 
 Employment
 ======
+* Associate Professor of Physics
+  * Providence College, 2023 --
+
 * Assistant Professor of Physics
-  * Providence College, 2019 --
+  * Providence College, 2019 -- 2023
 
 * Associate Professor of Physics
   * Utica College, 2015 -- 2019
